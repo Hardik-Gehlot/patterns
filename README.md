@@ -1,3 +1,4 @@
+```java
 package logical.Patterns;
 class Triangle{
     public void leftBottom(int num){
@@ -485,3 +486,4 @@ public class Star_Pattern {
     public static void main (String[] args) {
     }
 }
+```
